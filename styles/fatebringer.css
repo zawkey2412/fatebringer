@@ -1,0 +1,6 @@
+#controls .scene-control[data-control="token"] {
+  border: 1px solid transparent;
+}
+dialog {
+  padding: 0 !important;
+}

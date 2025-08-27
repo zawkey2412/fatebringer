@@ -1,0 +1,26 @@
+{
+  "id": "critically-fumbled",
+  "title": "Fatebringer",
+  "description": "A comprehensive Foundry VTT module for D&D 5e that automatically detects critical failures and successes, then triggers roll tables to chat. Also includes divine selection for randomly choosing tokens with deity blessings.",
+  "version": "2.0.0",
+  "authors": [{ "name": "Zawkey2412" }],
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/fatebringer.css"],
+  "languages": [{ "lang": "en", "name": "English", "path": "lang/en.json" }],
+  "relationships": {
+    "requires": [
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "manifest": "https://github.com/tposney/midi-qol/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "url": "https://github.com/zawkey2412/fatebringer",
+  "manifest": "https://github.com/zawkey2412/fatebringer/releases/latest/download/module.json",
+  "download": "https://github.com/zawkey2412/fatebringer/releases/latest/download/module.zip",
+  "license": "MIT",
+  "bugs": "https://github.com/zawkey2412/fatebringer/issues",
+  "changelog": "https://github.com/zawkey2412/fatebringer/releases"
+}

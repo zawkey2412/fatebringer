@@ -1,0 +1,30 @@
+<form>
+  <div style="margin-bottom: 15px;">
+    <p><strong>Selected Tokens:</strong> {{tokens.length}}</p>
+    <div
+      style="max-height: 150px; overflow-y: auto; border: 1px solid #ccc; padding: 8px; margin: 8px 0;"
+    >
+      {{#each tokens}}
+        <div style="padding: 2px 0;">• {{this.name}}</div>
+      {{/each}}
+    </div>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="count"><strong>How many to randomly select:</strong></label>
+    <select name="count" style="width: 100%; margin-top: 5px;">
+      {{#each options}}
+        <option value="{{this.value}}">{{this.label}}</option>
+      {{/each}}
+    </select>
+  </div>
+
+  <div style="display: flex; justify-content: flex-end;">
+    <button
+      type="button"
+      data-action="cancel"
+      style="margin-right: 10px;"
+    >Cancel</button>
+    <button type="button" data-action="select">Divine Selection</button>
+  </div>
+</form>

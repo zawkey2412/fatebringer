@@ -8,10 +8,13 @@ _Previously called as Critically Fumbled_
 A comprehensive Foundry VTT module for D&D 5e that automatically detects critical failures and successes, then triggers roll tables to chat. Enhanced with divine selection for randomly choosing tokens with deity blessings.
 
 ![Critical Tables Demo](assets/critical%20tables.gif)
+*Automatic critical hit and fumble detection with interactive table rolling*
 
 ![Divine Selection Demo](assets/divine%20selection.gif)
+*Random token selection with divine blessing messages*
 
 ![Settings Preview](assets/setting%20preview.gif)
+*Easy configuration interface for tables and options*
 
 ## What's New in v2.0
 

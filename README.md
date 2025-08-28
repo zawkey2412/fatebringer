@@ -1,7 +1,7 @@
 # Fatebringer
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W71K0WGP)
-[![Discord](https://csl.org/teencamp/wp-content/uploads/sites/12/2022/01/discord.png)](https://discord.gg/BvAqdHhDU2)
+[<img src="https://csl.org/teencamp/wp-content/uploads/sites/12/2022/01/discord.png" width="94">](https://discord.gg/BvAqdHhDU2)
 
 _Previously called as Critically Fumbled_
 
